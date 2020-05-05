@@ -1,0 +1,12 @@
+name: Wolf2789/YAML
+description: Simple YAML files parsing.
+version: 0.1
+author: 
+  - email: wolf2789@gmail.com
+    name: Dawid Bugajski
+autoload: 
+  - type: global
+    name: YAML
+    path: YAML.lua
+require: 
+  - name: Wolf2789/counter
